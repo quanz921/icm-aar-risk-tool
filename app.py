@@ -484,8 +484,7 @@ else:
 st.markdown("---")
 st.markdown("""
 <div style="text-align:center; font-size:11px; color:#95a5a6;">
-    Liu H, Chen Y, Yang X, Pan T, Wang S. Pre-scan Risk Stratification for ICM-AAR in Cancer Patients. 2026.<br>
-    Harbin Medical University Cancer Hospital 哈尔滨医科大学附属肿瘤医院<br>
+    Authors and institution blinded for peer review.<br>
     Model: CatBoost v1.2.5 | 61 features | Temporal validation AUC-ROC = 0.905
 </div>
 """, unsafe_allow_html=True)
